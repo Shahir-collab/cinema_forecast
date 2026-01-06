@@ -1,2 +1,25 @@
-# cinema_forecast
-Kaggle-based machine learning project for predicting customer churn using a real-world dataset. Covers data preprocessing, exploratory data analysis, feature engineering, and training multiple ML models with performance evaluation. Implemented in Python using standard data science libraries and best practices.
+# Customer Churn Prediction (Kaggle)
+
+## Overview
+This project is based on a Kaggle dataset and focuses on predicting customer churn
+using machine learning techniques.
+
+## Notebook
+- churn_prediction.ipynb
+  - Exploratory Data Analysis
+  - Feature Engineering
+  - Model Training
+  - Evaluation
+
+## Dataset
+Dataset is taken from Kaggle and is not included due to size constraints.
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+
+## Results
+Achieved ROC-AUC of ~0.87 on validation data.
